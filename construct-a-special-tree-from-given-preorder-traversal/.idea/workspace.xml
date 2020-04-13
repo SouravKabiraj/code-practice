@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="27beedaf-9028-4642-aa2f-e7468eb8dc7e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Xfs8OKJ4Zfk5csVcM1REyKukxS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.javatutorial.Main" />
+      <module name="construct-a-special-tree-from-given-preorder-traversal" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27beedaf-9028-4642-aa2f-e7468eb8dc7e" name="Default Changelist" comment="" />
+      <created>1581448332414</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581448332414</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="803" y="272" width="374" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1581448401570">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="803" y="272" width="374" height="569" key="#com.intellij.ide.util.MemberChooser/70.27.1850.1053@70.27.1850.1053" timestamp="1581448401570" />
+    <state width="446" height="466" key="DebuggerActiveHint" timestamp="1581449918409">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="446" height="466" key="DebuggerActiveHint/70.27.1850.1053@70.27.1850.1053" timestamp="1581449918409" />
+    <state width="1804" height="104" key="GridCell.Tab.0.bottom" timestamp="1581520010942">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="104" key="GridCell.Tab.0.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1581520010942" />
+    <state width="1804" height="104" key="GridCell.Tab.0.center" timestamp="1581520010941">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="104" key="GridCell.Tab.0.center/70.27.1850.1053@70.27.1850.1053" timestamp="1581520010941" />
+    <state width="1804" height="104" key="GridCell.Tab.0.left" timestamp="1581520010941">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="104" key="GridCell.Tab.0.left/70.27.1850.1053@70.27.1850.1053" timestamp="1581520010941" />
+    <state width="1804" height="104" key="GridCell.Tab.0.right" timestamp="1581520010941">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="104" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1581520010941" />
+    <state width="1804" height="104" key="GridCell.Tab.1.bottom" timestamp="1581520010942">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="104" key="GridCell.Tab.1.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1581520010942" />
+    <state width="1804" height="104" key="GridCell.Tab.1.center" timestamp="1581520010942">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="104" key="GridCell.Tab.1.center/70.27.1850.1053@70.27.1850.1053" timestamp="1581520010942" />
+    <state width="1804" height="104" key="GridCell.Tab.1.left" timestamp="1581520010942">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="104" key="GridCell.Tab.1.left/70.27.1850.1053@70.27.1850.1053" timestamp="1581520010942" />
+    <state width="1804" height="104" key="GridCell.Tab.1.right" timestamp="1581520010942">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="104" key="GridCell.Tab.1.right/70.27.1850.1053@70.27.1850.1053" timestamp="1581520010942" />
+    <state x="253" y="145" width="1474" height="824" key="new project wizard" timestamp="1581520009124">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="253" y="145" width="1474" height="824" key="new project wizard/70.27.1850.1053@70.27.1850.1053" timestamp="1581520009124" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/javatutorial/Main.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="97b6949e-2d8a-4d60-9ed9-560f4480a037" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1XRP0TIFu74cq4cBT7Nb4mzao7P" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.javatutorial.Main" />
+      <module name="number-subsequences-form-ai-bj-ck" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97b6949e-2d8a-4d60-9ed9-560f4480a037" name="Default Changelist" comment="" />
+      <created>1581005711181</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581005711181</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1804" height="191" key="GridCell.Tab.0.bottom" timestamp="1581009608321">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="191" key="GridCell.Tab.0.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1581009608321" />
+    <state width="1804" height="191" key="GridCell.Tab.0.center" timestamp="1581009608321">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="191" key="GridCell.Tab.0.center/70.27.1850.1053@70.27.1850.1053" timestamp="1581009608321" />
+    <state width="1804" height="191" key="GridCell.Tab.0.left" timestamp="1581009608320">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="191" key="GridCell.Tab.0.left/70.27.1850.1053@70.27.1850.1053" timestamp="1581009608320" />
+    <state width="1804" height="191" key="GridCell.Tab.0.right" timestamp="1581009608321">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="191" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1581009608321" />
+    <state width="1804" height="277" key="GridCell.Tab.1.bottom" timestamp="1581009608307">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="277" key="GridCell.Tab.1.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1581009608307" />
+    <state width="1804" height="277" key="GridCell.Tab.1.center" timestamp="1581009608305">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="277" key="GridCell.Tab.1.center/70.27.1850.1053@70.27.1850.1053" timestamp="1581009608305" />
+    <state width="1804" height="277" key="GridCell.Tab.1.left" timestamp="1581009608304">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="277" key="GridCell.Tab.1.left/70.27.1850.1053@70.27.1850.1053" timestamp="1581009608304" />
+    <state width="1804" height="277" key="GridCell.Tab.1.right" timestamp="1581009608305">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1804" height="277" key="GridCell.Tab.1.right/70.27.1850.1053@70.27.1850.1053" timestamp="1581009608305" />
+    <state x="253" y="145" width="1474" height="824" key="new project wizard" timestamp="1581009606227">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="253" y="145" width="1474" height="824" key="new project wizard/70.27.1850.1053@70.27.1850.1053" timestamp="1581009606227" />
+  </component>
+</project>
